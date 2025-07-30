@@ -1,2 +1,1 @@
-# TrackingSwimmers
-Tracking of swimmers and their speed during a swim race
+Tracking of swimmers and their speeds during a swim race recorded from phone.
